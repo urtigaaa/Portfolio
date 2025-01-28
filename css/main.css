@@ -90,7 +90,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #ffbd39;
+	color: #4ee0fb;
 	outline: 0;
 }
 
@@ -301,7 +301,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #ffbd39;
+	background: #4ee0fb;
 	position: absolute;
 	left: -17px;
 	top: 11px;
@@ -309,7 +309,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -429,7 +429,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #ffbd39;
+	background: #4ee0fb;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -472,7 +472,7 @@ img.pull-left {
 	border-top: 11px solid rgba(255, 255, 255, 0.1);
 	border-right: 11px solid rgba(255, 255, 255, 0.1);
 	border-bottom: 11px solid rgba(255, 255, 255, 0.1);
-	border-left: 11px solid #ffbd39;
+	border-left: 11px solid #4ee0fb;
 	-webkit-animation: load 1.1s infinite linear;
 	animation: load 1.1s infinite linear;
 	display: block;
@@ -594,8 +594,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #ffbd39;
-	border-bottom: 1px solid #ffbd39;
+	color: #4ee0fb;
+	border-bottom: 1px solid #4ee0fb;
 }
 label, legend {
 	font-family: "poppins-bold", sans-serif;
@@ -694,7 +694,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #313131;
+	background: #2b2b2b;
 	color: #FFFFFF;
 }
 .button.button-primary:hover,
@@ -736,8 +736,8 @@ button.stroke.large, .button.stroke.large {
 	line-height: 5.4rem !important;
 }
 button.stroke:hover, .button.stroke:hover {
-	border: 3px solid #ffbd39;
-	color: #ffbd39;
+	border: 3px solid #4ee0fb;
+	color: #4ee0fb;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
@@ -925,7 +925,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #252525;
 }
 .stats-tabs li a:hover {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 .stats-tabs li a em {
 	display: block;
@@ -1041,7 +1041,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #ffbd39;
+	color: #4ee0fb;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1138,7 +1138,7 @@ header .logo a {
 }
 .menu-toggle span {
 	display: block;
-	background-color: #ffbd39;
+	background-color: #4ee0fb;
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
@@ -1196,7 +1196,7 @@ header .logo a {
 	background-color: rgba(255, 0, 119, 0);
 }
 .menu-toggle.is-clicked span::before, .menu-toggle.is-clicked span::after {
-	background-color: #ffbd39;
+	background-color: #4ee0fb;
 	-moz-transition-delay: 0s, 0.2s;
 	-o-transition-delay: 0s, 0.2s;
 	-webkit-transition-delay: 0s, 0.2s;
@@ -1252,12 +1252,12 @@ header .logo a {
 	border: none;
 }
 .main-navigation li a:hover {
-	color: #ffbd39;
+	color: #4ee0fb;
 	padding-left: 1rem;
 }
 .main-navigation li.current > a {
 	background: none;
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 
 /**
@@ -1337,7 +1337,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #ffbd39;
+	color: #4ee0fb;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
@@ -1384,7 +1384,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #ffbd39;
+	border-color: #4ee0fb;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1416,7 +1416,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 
 /**
@@ -1504,13 +1504,13 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 205px;
-	width: 205px;
+	width: 200px;
 	margin: .9rem 30px 0 0;
 	float: left;
 }
 .intro-info .lead {
 	text-align: left;
+	padding-top: 30px;
 	padding-left: 13rem;
 }
 
@@ -1628,7 +1628,7 @@ header .logo a {
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 
 #resume .resume-timeline {
@@ -1955,7 +1955,7 @@ header .logo a {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #ffbd39;
+	background: #4ee0fb;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -2121,7 +2121,7 @@ header .logo a {
 	color: white;
 }
 #services .section-intro h5 {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 #services .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2143,7 +2143,7 @@ header .logo a {
 }
 .services-list .icon i {
 	font-size: 5.4rem;
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 .services-list h3 {
 	color: #FFFFFF;
@@ -2171,7 +2171,7 @@ header .logo a {
 	background: #FFFFFF;
 }
 .owl-theme .owl-controls .owl-page.active span {
-	background: #ffbd39;
+	background: #4ee0fb;
 }
 
 
@@ -2257,7 +2257,7 @@ header .logo a {
 	color: white;
 }
 #contact .section-intro h5 {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 #contact .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2310,7 +2310,7 @@ header .logo a {
 	padding: 0 2rem;
 	margin: 0;
 	color: #FFFFFF;
-	background: #ffbd39;
+	background: #4ee0fb;
 }
 #contact form .form-field label::after {
 	position: absolute;
@@ -2319,7 +2319,7 @@ header .logo a {
 	margin-top: -6px;
 	border-top: 5px solid transparent;
 	border-bottom: 5px solid transparent;
-	border-right: 5px solid #ffbd39;
+	border-right: 5px solid #4ee0fb;
 	content: "";
 }
 #contact input[type="text"],
@@ -2341,7 +2341,7 @@ header .logo a {
 #contact input[type="text"]:focus,
 #contact input[type="password"]:focus,
 #contact input[type="email"]:focus {
-	border-color: #ffbd39;
+	border-color: #4ee0fb;
 	color: #FFFFFF;
 }
 #contact textarea {
@@ -2349,7 +2349,7 @@ header .logo a {
 	padding: 1.8rem 2rem;
 }
 #contact textarea:focus {
-	border-color: #ffbd39;
+	border-color: #4ee0fb;
 	color: #FFFFFF;
 }
 #contact button.submitform {
@@ -2361,11 +2361,11 @@ header .logo a {
 	padding: 0 3rem;
 	margin-top: 4.8rem;
 	width: 100%;
-	background: #ffbd39;
+	background: #4ee0fb;
 	color: #FFFFFF;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-	background: #ffbd39;
+	background: #4ee0fb;
 }
 #message-warning, #message-success {
 	display: none;
@@ -2424,7 +2424,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .contact-info h5 {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 
 /**
@@ -2498,7 +2498,7 @@ footer a, footer a:visited {
 	color: #FFFFFF;
 }
 footer a:hover, footer a:focus {
-	color: #ffbd39;
+	color: #4ee0fb;
 }
 footer .row {
 	max-width: 900px;
@@ -2577,7 +2577,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #ffbd39;
+	background: #4ee0fb;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
